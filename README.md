@@ -43,3 +43,15 @@ Reading list for IT-hungry people.
     
     * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/5322055/)
 
+8.«__Applied Cryptography: Protocols, Algorithms, and Source Code in C__», Bruce Schneier
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/0471117099)
+
+    * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/135481806/)
+
+9. «__The Pragmatic Programmer: From Journeyman to Master__», Andrew Hunt, David Thomas
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+  
+    * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/3353337/)
+
