@@ -43,7 +43,7 @@ Reading list for IT-hungry people.
     
     * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/5322055/)
 
-8.«__Applied Cryptography: Protocols, Algorithms, and Source Code in C__», Bruce Schneier
+8. «__Applied Cryptography: Protocols, Algorithms, and Source Code in C__», Bruce Schneier
 
     * 🇺🇸 [[en-US]](https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/0471117099)
 
