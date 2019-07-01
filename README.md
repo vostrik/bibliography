@@ -2,7 +2,53 @@
 
 Reading list for IT-hungry people.
 
-## [@amel_true](https://twitter.com/amel_true)`s recommendations at [@devschacht](https://www.youtube.com/channel/UCTSVfbCKN3nZbogPtOCHcMg)
+## [Aleksey Kozyatinskiy (@ak_239)](https://twitter.com/ak_239) from [Netflix](https://twitter.com/netflix), ex. [@ChromeDevTools](https://twitter.com/ChromeDevTools) engineer, recommendations:
+
+1. «__Algorithms__», Sanjoy Dasgupta, Christos H. Papadimitriou, Umesh Vazirani
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)
+    
+    * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/27676529/)
+
+2. «__Introduction to Algorithms__», Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+    
+    * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/33769775/)
+
+3. «__The Pragmatic Programmer: From Journeyman to Master__», Andrew Hunt, David Thomas
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+    
+    * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/3353337/)
+
+4. «__Clean Code: A Handbook of Agile Software Craftsmanship__», Robert C. Martin
+
+    > «_Read once a year_» — tip from Aleksey Kozyatinskiy
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+    
+    * 🇷🇺 [[ru-RU]](https://www.labirint.ru/books/642466/)
+
+5. «__Design Patterns: Elements of Reusable Object-Oriented Software__», Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook-dp-B000SEIBB8/dp/B000SEIBB8/)
+    
+    * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/148946316/?gclid=EAIaIQobChMIt_uyn8KU4wIVwZAYCh0b9gHsEAQYAiABEgIuuPD_BwE)
+
+6. «__Modern Operating Systems__», Andrew S. Tanenbaum, Herbert Bos
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)
+    
+    * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/31649356/)
+
+7. «__The Mythical Man-Month: Essays on Software Engineering__», Frederick P. Brooks Jr.
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+    
+    * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/83760/)
+
+## [Andrey Melikhov (@amel_true)](https://twitter.com/amel_true), from [Yandex.Money](https://twitter.com/yamoneynews), recommendations at [@devschacht](https://www.youtube.com/channel/UCTSVfbCKN3nZbogPtOCHcMg):
 
 1. «__The Passionate Programmer: Creating a Remarkable Career in Software Development__», Chad Fowler
 
@@ -62,7 +108,7 @@ Reading list for IT-hungry people.
     
     * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/32211144/)
 
-## [@rage_monk](https://twitter.com/rage_monk)`s recommendations at [@jsunderhood](https://twitter.com/jsunderhood):
+## [Artem Kobzar (@rage_monk)](https://twitter.com/rage_monk), from [JavaScript.Ninja](https://javascript.ninja/),  recommendations at [@jsunderhood](https://twitter.com/jsunderhood):
 
 1. «__Clean Architecture__», Robert C. Martin
 
