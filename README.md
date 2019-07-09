@@ -2,7 +2,35 @@
 
 Reading list for IT-hungry people.
 
-## [Aleksey Kozyatinskiy (@ak_239)](https://twitter.com/ak_239) from [Netflix](https://twitter.com/netflix), ex. [@ChromeDevTools](https://twitter.com/ChromeDevTools) engineer, recommendations:
+## [Vadim Makeev (@pepelsbey_)](https://twitter.com/pepelsbey_), from [HTML Academy](https://twitter.com/HTMLAcademy_en), recommendations:
+
+1. «__You Don't Know JS: ES6 & Beyond__», Kyle Simpson
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/You-Dont-Know-JS-Beyond/dp/1491904240)
+    
+    * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/137473815/)
+
+2. «__JavaScript: The Good Parts__», Douglas Crockford
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+    
+    * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/20217226/)
+
+3. «__JavaScript Patterns: Build Better Applications with Coding and Design Patterns__», Stoyan Stefanov
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/JavaScript-Patterns-Better-Applications-Coding/dp/0596806752)
+    
+    * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/6287517/)
+
+4. «__Practical SVG__», Chris Coyier
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/Practical-SVG-Chris-Coyier/dp/193755743X)
+    
+5. «__Accessibility for Everyone__», Laura Kalbag
+
+    * 🇺🇸 [[en-US]](https://www.amazon.com/Accessibility-Everyone-Laura-Kalbag/dp/1937557618)
+    
+## [Aleksey Kozyatinskiy (@ak_239)](https://twitter.com/ak_239), from [Netflix](https://twitter.com/netflix), ex. [@ChromeDevTools](https://twitter.com/ChromeDevTools) engineer, recommendations:
 
 1. «__Algorithms__», Sanjoy Dasgupta, Christos H. Papadimitriou, Umesh Vazirani
 
