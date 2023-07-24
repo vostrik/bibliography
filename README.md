@@ -147,7 +147,7 @@ Reading list for IT-hungry people.
 
 2. «__Types and Programming Languages__», Benjamin C. Pierce
 
-    * 🇺🇸 [[en-US]](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) 
+    * 🇺🇸 [[en-US]](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091)
     
     * 🇷🇺 [[ru-RU]](https://www.ozon.ru/context/detail/id/7410082/)
 
